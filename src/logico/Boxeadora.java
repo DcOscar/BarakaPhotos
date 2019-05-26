@@ -14,9 +14,17 @@ public class Boxeadora {
     private double altura;
 
 
-    public Boxeadora() {
-       
+    public Boxeadora(double altura) {
+        this.altura = altura;
 
+    }
+
+    public double getAltura() {
+        return altura;
+    }
+
+    public void setAltura(double altura) {
+        this.altura = altura;
     }
 
 
