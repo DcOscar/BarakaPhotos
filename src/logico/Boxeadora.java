@@ -27,7 +27,4 @@ public class Boxeadora {
         this.altura = altura;
     }
 
-
-
-
 }
